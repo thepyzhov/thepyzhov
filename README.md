@@ -8,11 +8,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="ObjectiveC" alt="ObjectiveC" width="40" height="40"/>&nbsp;
 </div>
 
+### 🔥 Statistics:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thepyzhov&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/thepyzhov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.t.me/thepyzhov/">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
